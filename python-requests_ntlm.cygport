@@ -1,0 +1,9 @@
+inherit python-wheel
+
+NAME="python-requests_ntlm"
+VERSION=1.1.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="NTLM authentication support for Python requests module"
+
+ARCH=noarch
